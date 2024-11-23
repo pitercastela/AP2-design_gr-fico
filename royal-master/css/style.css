@@ -26,14 +26,14 @@ Table of Content:
 06/ breadcrumb
 07/ about
 08/ team
-09/ project 
-10/ price 
-11/ team 
-12/ blog 
-13/ video  
-14/ features  
-15/ career  
-16/ contact 
+09/ project
+10/ price
+11/ team
+12/ blog
+13/ video
+14/ features
+15/ career
+16/ contact
 17/ footer
 
 =====================================================================*/
@@ -718,7 +718,7 @@ button:focus {
 }
 
 .blog_banner .bg-parallax {
-  background: url(../image/banner/banner-1.jpg) no-repeat scroll center center;
+  background: url(../image/banner_bg.jpg) no-repeat scroll center center;
 }
 
 .blog_banner .banner_content {
