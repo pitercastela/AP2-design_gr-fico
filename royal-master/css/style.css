@@ -500,7 +500,7 @@ button:focus {
 }
 
 .banner_area .bg-parallax {
-  background: url("../image/banner/freddy-pizzaplex-background-banner.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/fotos_novas_otimizadas/banner/freddy-pizzaplex-background-banner.jpg") no-repeat scroll center 0/cover;
   opacity: 0.50;
 }
 
@@ -673,7 +673,7 @@ button:focus {
 }
 
 .breadcrumb_area .bg-parallax {
-  background: url("../image/banner/freddy-pizzaplex-banner.jpg") no-repeat scroll center 0/cover;
+  background: url("../image/fotos_novas_otimizadas/banner/freddy-pizzaplex-banner.jpg") no-repeat scroll center 0/cover;
   opacity: 0.50;
   z-index: -1;
 }
@@ -718,7 +718,7 @@ button:focus {
 }
 
 .blog_banner .bg-parallax {
-  background: url(../image/banner/freddy-pizzaplex-background-banner.jpg) no-repeat scroll center center;
+  background: url(../image/fotos_novas_otimizadas/banner/freddy-pizzaplex-background-banner.jpg) no-repeat scroll center center;
 }
 
 .blog_banner .banner_content {
@@ -751,7 +751,7 @@ button:focus {
 }
 
 .blog_banner_two .bg-parallax {
-  background: url(../image/banner/freddy-pizzaplex-banner.jpg) no-repeat scroll center top/cover;
+  background: url(../image/fotos_novas_otimizadas/banner/freddy-pizzaplex-banner.jpg) no-repeat scroll center top/cover;
 }
 
 /*=============End Blog Banner css =============*/
@@ -829,7 +829,7 @@ button:focus {
 }
 
 .facilities_area .bg-parallax {
-  background: url("../image/pizzaria-dentro-about.jpg_large") no-repeat scroll center 0/cover;
+  background: url("../image/fotos_novas_otimizadas/pizzaria-dentro-about.jpg_large") no-repeat scroll center 0/cover;
   opacity: 0.15;
 }
 
